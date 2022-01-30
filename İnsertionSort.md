@@ -102,7 +102,7 @@ Average Case: "18"
 <hr>
 <br>
 
-## <b> Teşekkürler
+## <b> Teşekkürler Patika
 <br>
 
 ```
